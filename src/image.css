@@ -1,0 +1,15 @@
+.active {
+    -webkit-filter: brightness(500%) drop-shadow(0 0 10px rgb(0, 255, 0));
+
+    filter: brightness(500%) drop-shadow(0 0 10px rgb(0, 255, 0));
+
+}
+
+.holder {
+    display: inherit;
+}
+
+img {
+    height: 64px;
+    width: 64px;
+}

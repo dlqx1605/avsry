@@ -1,0 +1,9 @@
+.store {
+    display: 'flex';
+    flex-direction: 'row';
+    align-items: "center";
+    justify-content: "center";
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 5vh;
+}
